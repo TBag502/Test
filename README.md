@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/original/3d-c-programming-language-logo-free-png.png" width="90" height="90">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="75" height="75" style="margin-left: 10px;">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="70" height="70" style="margin-left: 10px;">
 </p>
 
 <img src="https://static.javatpoint.com/tutorial/arduino/images/arduino-ide.png" width="506" height="414">
