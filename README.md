@@ -5,8 +5,8 @@
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="80" height="80">
 
 <p float="left">
-  <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/original/3d-c-programming-language-logo-free-png.png" width="80" height="80">
-  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="100" height="100" style="margin-left: 10px;">
+  <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/original/3d-c-programming-language-logo-free-png.png" width="100" height="100">
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="80" height="80" style="margin-left: 10px;">
 </p>
 
 <img src="https://static.javatpoint.com/tutorial/arduino/images/arduino-ide.png" width="506" height="414">
