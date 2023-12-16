@@ -15,4 +15,4 @@
 
 <img src="https://www.rhydolabz.com/wiki/wp-content/uploads/combined.jpg" width="566" height="221">
 
-<img src="https://www.orbit-dz.com/wp-content/uploads/2022/12/H41dd931b5c434fcb8e83cbd584e2117fR.jpg width="320" height="320">
+<img src="https://www.orbit-dz.com/wp-content/uploads/2022/12/H41dd931b5c434fcb8e83cbd584e2117fR.jpg" width="320" height="320">
