@@ -1,9 +1,5 @@
 # Test
 
-<img src="https://static.vecteezy.com/system/resources/previews/012/697/300/original/3d-c-programming-language-logo-free-png.png" width="100" height="100">
-
-<img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="80" height="80">
-
 <p float="left">
   <img src="https://static.vecteezy.com/system/resources/previews/012/697/300/original/3d-c-programming-language-logo-free-png.png" width="100" height="100">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" width="75" height="75" style="margin-left: 10px;">
@@ -14,7 +10,6 @@
 <img src="https://www.twinschip.com/image/catalog/Products%20Twins%20Chip%20Store%202020/Shield%20Modules/Wireless%20Modules/NRF24L01%20Wireless%202.4GHz%20Transceiver%20Antenna%201100%20Metres%20/NRF24L01%2BPA-LNA%20SMA%20Wireless%202.4GHz%20Transceiver%20Antenna%201100%20Metres%20-Twins%20Chip.jpg" width="384" height="258">
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHCfrINVkq9FHGd516DJyBRB5jPHe_Zf-_kiwrNotW_RBjv-jvSQ_C49Dih98iUtHZDkmwGLxhLbUcMX9mRWcteG2P943QoTO2QhTuQ29zXZyY2zYzjtGNg7uxtlbJnXPToBOWArDhGiVw1IpqGakKiFrK5cqCW7th0pr6x9Fy2tiC_xKHiKeVm-R-J1v3/s1011/Arduino%20uno%20board.png" width="506" height="278">
-
 
 <img src="https://cdn.shopify.com/s/files/1/0527/2692/3444/files/MQ135_-_Air_Quality_Control_Gas_Sensor_Module.jpg?v=1631792819" width="629" height="287">
 
